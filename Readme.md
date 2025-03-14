@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 Live Demo
-👉 **Experience the magic now:** [Click Here](https://holi-magic-wish.netlify.app)
+👉 **Experience the magic now:** [Click Here](https://itz-me-ad.github.io/happy-holi/)
 
 ![Demo GIF](./img/output.png)
 
@@ -25,7 +25,7 @@
 
 💻 **Clone the Repository**:
 ```bash
- git clone https://github.com/aoudumber-bade/holi-magic-wish.git
+ git clone https://itz-me-ad.github.io/happy-holi/
 ```
 📂 **Run the Project**: Open `index.html` in your browser!
 
