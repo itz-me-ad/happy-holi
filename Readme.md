@@ -7,7 +7,6 @@
 ## 🌟 Live Demo
 👉 **Experience the magic now:** [Click Here](https://itz-me-ad.github.io/happy-holi/)
 
-![Demo GIF](./Screenshot 2025-03-14 121056.png)
 
 ---
 
